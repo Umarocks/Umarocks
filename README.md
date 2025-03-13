@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://github.com/Umarocks/TheOdinProject)
 
-- 🌱 I’m currently learning **Java Backend frameworks and libraries such as Spring**
+- 🌱 I’m currently learning **Virtual reality with unity**
 
 - 👯 I’m looking to collaborate on [Plagiarism detector web application](https://github.com/Umarocks/PlagarismChecker)
 
-- 📫 How to reach me **umarocks@hotmail.com**
+- 📫 How to reach me **umar.a.aziz2001@gmail.com@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/umarocks/](https://www.linkedin.com/in/umarocks/)
 
