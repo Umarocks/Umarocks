@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Umar Abdul Aziz</h1>
+<h1 align="center">Hi 👋, I'm Umar  Aziz</h1>
 <h3 align="center">A Masters Student In Computer Science and I Am Passionate About Full Stack Development</h3>
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently working with Amazon WorkSpaces
+- 🔭 I’m currently working with Amazon Healthcare AI
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **System and architectural design**
 
 - 📫 How to reach me **umar.a.aziz2001@gmail.com**
 
